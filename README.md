@@ -1,7 +1,7 @@
 ## Proyecto 02 - Primeros pasos en MongoDB y Visual Studio Code
-** En este proyecto explico y muestro ejemplos sobre el uso de MongoDB y Visual Studio Code, viendo su instalación y funcionamiento. **
+**En este proyecto explico y muestro ejemplos sobre el uso de MongoDB y Visual Studio Code, viendo su instalación y funcionamiento.**
 
-*** Este proyecto contiene 2 carpetas visibles: ***
+***Este proyecto contiene 2 carpetas visibles:***
 1. src: Carpeta source del proyecto.
 2. doc: Carpeta para la documentación del proyecto.
 
