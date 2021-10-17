@@ -1,0 +1,1 @@
+db.col01.find( {qty: { $eq: 20} } )
